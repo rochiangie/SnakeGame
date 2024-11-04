@@ -19,6 +19,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GestorAndroid"
+rootProject.name = "Snake"
 include(":app")
+include ':app'
+
  
